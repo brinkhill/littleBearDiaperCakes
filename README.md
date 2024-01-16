@@ -1,8 +1,6 @@
-***School Board Policies***
+# **SECTION 1: SCHOOL ADMINISTRATION**
 
-**SECTION 1: SCHOOL ADMINISTRATION**
-
-**1.1 SUPERINTENDENT APPOINTMENT, LAWS, OBLIGATIONS**
+## **1.1 SUPERINTENDENT APPOINTMENT, LAWS, OBLIGATIONS**
 
 1. APPOINTMENT AND TERM
 
@@ -113,7 +111,7 @@ Legal References:
 [VDOE Guidelines for Uniform Performance Standards and Evaluation Criteria for Superintendents](https://www.doe.virginia.gov/teaching-learning-assessment/teaching-in-virginia/performance-evaluation/superintendents). 
 
 
-**1.2 ADMINISTRATIVE MANAGEMENT OF SCHOOLS** 
+## **1.2 ADMINISTRATIVE MANAGEMENT OF SCHOOLS** 
 
 1. MANAGEMENT PLAN
 
@@ -205,7 +203,7 @@ Legal References:
 [§ 22.1-294](https://law.lis.virginia.gov/vacode/title22.1/chapter15/section22.1-294/)
 
 
-**1.3 EMPLOYEE COMMUNICATIONS**
+## **1.3 EMPLOYEE COMMUNICATIONS**
 
 1. EMPLOYEE COMMUNICATIONS
 
@@ -228,7 +226,7 @@ Legal Reference:
 [§ 22.1-253.13:7](https://law.lis.virginia.gov/vacode/title22.1/chapter13.2/section22.1-253.13:7/)
 
 
-**1.4 ADMINISTRATIVE APPOINTMENTS AND EVALUATIONS**
+## **1.4 ADMINISTRATIVE APPOINTMENTS AND EVALUATIONS**
 
 All administrative and supervisory personnel, except for temporary or part-time personnel, shall be appointed by the School Board upon the recommendation of the Superintendent.
 
@@ -274,7 +272,7 @@ Legal References:
 
 [§ 2.2-3100](https://law.lis.virginia.gov/vacodepopularnames/state-and-local-government-conflict-of-interests-act/)
 
-5. **COMPREHENSIVE PLANNING AND PUBLIC INVOLVEMENT**
+## **1.5 COMPREHENSIVE PLANNING AND PUBLIC INVOLVEMENT**
 1. The School Board shall adopt a division wide comprehensive, unified, long-range plan based on:
 1. Data collection, an analysis of the data, and how the data will be utilized to improve classroom instruction and student achievement. 
 1. The plan shall be developed with staff and community involvement and shall include, or be consistent with, all other division-wide plans required by state and federal laws and regulations.
@@ -307,7 +305,7 @@ Legal Reference:
 
 [§ 22.1-253.13:6](https://law.lis.virginia.gov/vacode/title22.1/chapter13.2/section22.1-253.13:6/)
 
-**1.6 LEGAL COUNSEL**
+## **1.6 LEGAL COUNSEL**
 
 EMPLOYMENT OF LEGAL COUNSEL
 
